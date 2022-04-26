@@ -25,3 +25,9 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+<div align="center">
+    <img src="screenshot.png" height=608 width=288 />
+    <img src="screenshot_2.png" height=608 width=288 />
+    <img src="screenshot_3.png" height=608 width=288 />
+</div>
